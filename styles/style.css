@@ -1,0 +1,35 @@
+#body{
+  background-color: #109C85;
+  margin: 0;
+}
+#header{
+    width:98%;
+    height:10vh;
+    margin-left: 0;
+    padding:1%;
+  background-color: #FF6347;
+}
+#wrapper{
+  width:80vw  ;
+  height:150vh;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:1em;
+  margin-bottom: 0px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #008670;
+  background-color: #008670;
+}
+#top_nav{
+  width:98%;
+  height:1vh;
+  margin-left: 0;
+  padding:1%;
+  z-index:10;
+  position:sticky;
+  top:0;
+  background-color: #060814;
+  border-top:1px solid #202040  ;
+
+}
